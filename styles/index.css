@@ -1,13 +1,13 @@
 body {
   background: #b4d491;
-  font-family: helvetica, arial, serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 13px;
   text-transform: uppercase;
   text-align: center;
 }
 
 h1 {
-  font-family: helvetica, arial, serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 40px;
   font-weight: 600;
   text-transform: uppercase;
